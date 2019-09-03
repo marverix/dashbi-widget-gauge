@@ -1,0 +1,24 @@
+{
+  "name": "dashbi-widget-gauge",
+  "version": "0.1.0",
+  "description": "Gauge widget for Dashbi",
+  "main": "index.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dashbi",
+    "dashbi-widget",
+    "chart",
+    "chartist",
+    "gauge",
+    "knob",
+    "metter"
+  ],
+  "author": "Marek Sierociński <mareksierocinski@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chartist": "^0.11.3",
+    "v-chartist": "^0.1.6"
+  }
+}
